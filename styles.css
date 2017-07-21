@@ -1,0 +1,66 @@
+/* add your CSS here */ #
+p1 {
+    font - style: italic;
+}
+
+
+p {
+    padding - left: 5 px;
+    padding - right: 5 px
+}
+
+
+.pad {
+    padding - left: 15 px;
+
+}
+
+
+#img {
+    height: 200;
+    width: 300;
+}
+
+
+#head {
+        margin - bottom: 0 px;
+    }
+
+
+.cat {
+        font - weight: bold;
+    }
+
+
+ #one {
+        margin - left: 38 % ;
+        border: 1 px solid# e1dcf7;
+        width: 330 px;
+        box - shadow: 5 px 5 px rgba(0, 0, 0, 0.09);
+        font - size: 15 px;
+        font - family: serif;
+    }
+
+	
+#list {
+        padding - left: 10 px;
+        padding - right: 10 px;
+        list - style: none;
+    }
+
+
+#list2 {
+        list - style: none;
+    }
+
+
+#hello {
+        font - size: 15 px;
+    }
+
+	
+#two {
+        border: 1 px solid# e1dcf7;
+        width: 290 px;
+        margin: 20 px;
+ }
